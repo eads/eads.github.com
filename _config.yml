@@ -1,8 +1,8 @@
-title: change title
-author: change author
-email: change email
+title: Version control for journalists
+author: Ryan Mark, David Eads, Chicago Tribune News Apps
+email: newsapps@tribune.com
 venue: change venue
-date: change date
+date: September 26, 2012
 
 auto: on
 pygments: true
