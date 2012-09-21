@@ -1,0 +1,4 @@
+# Version control for journalists
+
+Ryan Mark & David Eads
+Chicago Tribune News Applications Team
