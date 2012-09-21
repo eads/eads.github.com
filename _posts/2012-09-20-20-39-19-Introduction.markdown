@@ -1,3 +1,8 @@
+---
+
+published: true
+---
+
 # Version control for journalists
 
 Ryan Mark & David Eads
