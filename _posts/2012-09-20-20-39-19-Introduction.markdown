@@ -1,4 +1,7 @@
 # Version control for journalists
 
 Ryan Mark & David Eads
+
 Chicago Tribune News Applications Team
+
+Hacks + Hackers | September 26, 2012
