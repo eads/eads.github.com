@@ -1,0 +1,6 @@
+# What are some features we want in our writing / editing software?
+
+- multiple actors working on the same stuff
+- change history
+- nothing lost (don't need a bunch of backup copies)
+- associating changes with their authors
